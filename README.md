@@ -1,9 +1,10 @@
 ## Hi, I'm Javier García 👋
 
+![Banner de Javier](https://github.com/JavierGarLo/JavierGarLo/raw/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png)
+
 <!--
 **JavierGarLo/JavierGarLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
 ## 🧠 About Me
 
 I'm a dynamic and analytical finance professional with knowledge into Data Analyst tools. With 3 years of experience in financial advisory and controlling across international environments, I’ve developed strong communication and teamwork skills, along with a passion for data-driven decision-making. My background in finance gives me a unique perspective on how data can transform business performance.
