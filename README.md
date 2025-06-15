@@ -7,13 +7,13 @@
 -->
 ## 🧠 About Me
 
-I'm a dynamic and analytical finance professional with knowledge into Data Analyst tools. With 3 years of experience in financial advisory and controlling across international environments, I’ve developed strong communication and teamwork skills, along with a passion for data-driven decision-making. My background in finance gives me a unique perspective on how data can transform business performance.
+I'm a dynamic and analytical finance professional with knowledge into Data Analyst tools. With **3 years of experience** in financial advisory and controlling across international environments, I’ve developed strong communication and teamwork skills, along with a **passion for data-driven decision-making**. My background in finance gives me a unique perspective on how data can transform business performance.
 
-Currently pursuing a Master’s in Data Science, Big Data & Business Analytics, I’m focused on enhancing my technical skill set in Python, SQL, Machine Learning, and cloud-based solutions. I’m deeply committed to lifelong learning and thrive in fast-paced, innovative environments that challenge me to grow and contribute meaningfully.
+Currently pursuing a **Master’s in Data Science, Big Data & Business Analytics**, I’m focused on enhancing my technical skill set in Python, SQL, Machine Learning, and cloud-based solutions. I’m deeply committed to lifelong learning and thrive in fast-paced, innovative environments that challenge me to grow and contribute meaningfully.
 
 🔹 Background in Finance, Advisory & Controlling  
 🔹 Training in Machine Learning, SQL, Big Data & Python  
-🔹 Interested in AI, Automation & Cloud Technologies  
+🔹 Interested in AI, Automation & Cloud Technologies
 
 📍 Open to global opportunities and relocation. Passionate about using data and technology to solve real-world business problems.
 
