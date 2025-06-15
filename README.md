@@ -71,5 +71,5 @@ _What factors influence hotel prices? Do longer stays always mean higher prices?
 
 ## 🔗 Connect with Me
 
-                      📬 Email: garlojavier99@gmail.com  
-🔗                    LinkedIn: [linkedin.com/in/javier-garcía-lópez-8949831b9](https://www.linkedin.com/in/javier-garc%C3%ADa-l%C3%B3pez-8949831b9)
+📬 Email: garlojavier99@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/javier-garcía-lópez-8949831b9](https://www.linkedin.com/in/javier-garc%C3%ADa-l%C3%B3pez-8949831b9)
