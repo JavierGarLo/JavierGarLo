@@ -34,7 +34,7 @@ GenAI (LLMs & NLP) | Predictive Analytics | Recommender Systems | Fine-Tuning & 
 Power BI | Tableau | PowerBI | Excel
 
 ### ⚡ Automation  
-Docker | Kubernetes | Power Automate | Power Apps
+Docker | Power Automate | Power Apps
 
 ### 🎯 Financials ERP
 Sap | Navision | Ceetrus
@@ -43,28 +43,16 @@ Sap | Navision | Ceetrus
 
 ## 🚀 Featured Projects
 
-### 📺 Netflix Analysis with PySpark  
-_Cleaning and analysis of the Netflix catalogue using Apache PySpark_  
-🔗 [netflix-pyspark-analysis]()
-
-### 🔍 Traffic Accidents in Madrid  
-_What are the most dangerous weeks, days or hours to drive in Madrid?_  
-🔗 [accidents-analysis-madrid]()
-
-### 📊 Emissions Analysis in Spain  
-_Analyzing trends in Spain’s air pollution to identify key sources and their impact over time_  
-🔗 [emissions-analysis-spain]()
-
-### 🏨 Hotel Pricing Analysis  
-_What factors influence hotel prices? Do longer stays always mean higher prices?_  
-🔗 [hotel-customer-analysis]()
+### 🔍 Pump it Up: Data Mining the Water Table  
+_Predict which water pumps are faulty to promote access to clean, potable water across Tanzania?.  
+🔗 [Pump-it-Up-Data-Mining-the-Water-Table](https://github.com/JavierGarLo/Pump-it-Up-Data-Mining-the-Water-Table)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JavierGarLo&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
