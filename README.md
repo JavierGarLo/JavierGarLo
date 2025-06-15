@@ -47,6 +47,14 @@ Sap | Navision | Ceetrus
 _Predict which water pumps are faulty to promote access to clean, potable water across Tanzania?.  
 🔗 [Pump-it-Up-Data-Mining-the-Water-Table](https://github.com/JavierGarLo/Pump-it-Up-Data-Mining-the-Water-Table)
 
+### 📈 Smart Desk Tableau
+_Loan operations analysis across countries using Tableau dashboards.
+🔗 [Smart-Desk-Tableau](https://github.com/JavierGarLo/Smart-Desk-Tableau)
+
+### 💻 Spark Activities
+_Exploring Apache Spark in depth and getting hands-on experience with Databricks for real-world applications.
+🔗 [Smart-Desk-Tableau](https://github.com/JavierGarLo/Smart-Desk-Tableau)
+
 ---
 
 ## 📊 GitHub Stats
