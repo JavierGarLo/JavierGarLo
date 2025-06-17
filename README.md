@@ -46,7 +46,7 @@ Sap | Navision | Ceetrus
 
 ### 🔍 Pump it Up: Data Mining the Water Table  
 _Predict which water pumps are faulty to promote access to clean, potable water across Tanzania?.  
-🔗 [Pump-it-Up-Data-Mining-the-Water-Table](https://github.com/JavierGarLo/Pump-it-Up-Data-Mining-the-Water-Table)
+🔗 [Pump it Up.png](https://github.com/JavierGarLo/Pump-it-Up-Data-Mining-the-Water-Table)
 
 ### 📈 Smart Desk Tableau
 _Loan operations analysis across countries using Tableau dashboards.
