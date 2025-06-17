@@ -46,6 +46,7 @@ Sap | Navision | Ceetrus
 
 ### 🔍 Pump it Up: Data Mining the Water Table  
 ![Pump it Up](https://github.com/JavierGarLo/JavierGarLo/blob/main/Pump%20it%20Up.png)
+
 _Predict which water pumps are faulty to promote access to clean, potable water across Tanzania?.  
 
 🔗(https://github.com/JavierGarLo/Pump-it-Up-Data-Mining-the-Water-Table)
