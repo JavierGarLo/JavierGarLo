@@ -12,8 +12,8 @@ I'm a dynamic and analytical finance professional with knowledge into Data Analy
 Currently pursuing a **Master’s in Data Science, Big Data & Business Analytics**, I’m focused on enhancing my technical skill set in Python, SQL, Machine Learning, and cloud-based solutions.I'm also building hands-on knowledge in neural networks and **deep learning**, expanding my capabilities in advanced **AI applications**. I’m deeply committed to lifelong learning and thrive in fast-paced, innovative environments that challenge me to grow and contribute meaningfully.
 
 🔹 Background in Finance, Advisory & Controlling  
-🔹 Training in Machine Learning, SQL, Big Data, Python & Deep Learning
-🔹 Interested in AI, Automation & Cloud Technologies
+🔹 Training in Machine Learning, SQL, Big Data & Python
+🔹 Interested in AI, Automation & Deep Learning
 
 📍 Open to global opportunities and relocation. Passionate about using data and technology to solve real-world business problems.
 
