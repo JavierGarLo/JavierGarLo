@@ -1,6 +1,6 @@
 ## Hi, I'm Javier García 👋
 
-![Banner de Javier](https://github.com/JavierGarLo/JavierGarLo/raw/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png)
+![Banner de Javier]()
 
 <!--
 **JavierGarLo/JavierGarLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
